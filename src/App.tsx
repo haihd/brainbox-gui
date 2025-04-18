@@ -16,9 +16,6 @@ function App() {
         </h1>
 
         <div className="mb-2">
-          <h2 className="text-xl font-semibold mb-4">
-            Floating Toolbar Example
-          </h2>
           <div className="relative mb-1 max-w-lg">
             <div className="border border-gray-200 rounded-lg p-4 mb-4 bg-white">
               <p className="text-gray-700">{demoText}</p>
